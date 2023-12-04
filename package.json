@@ -1,0 +1,16 @@
+{
+  "name": "ibc-solidity-eip-2535-diamond-example",
+  "version": "0.1.0",
+  "description": "EIP-2535 Diamond proxy with ibc-solidity",
+  "devDependencies": {
+    "@hyperledger-labs/yui-ibc-solidity": "git+https://github.com/hyperledger-labs/yui-ibc-solidity.git#v0.3.20",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "chai": "^4.3.4",
+    "diamond-2-hardhat": "git+https://github.com/mudgen/diamond-2-hardhat#c455afbe2487f3878581e8edd69721ac17d6e973",
+    "hardhat": "^2.19.1",
+    "hardhat-contract-sizer": "^2.10.0",
+    "hardhat-gas-reporter": "^1.0.9"
+  },
+  "author": "ibc-solidity authors",
+  "license": "Apache-2.0"
+}
